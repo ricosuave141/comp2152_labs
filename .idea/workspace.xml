@@ -9,13 +9,9 @@
       <change afterPath="$PROJECT_DIR$/../lab09(b).py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../lab09.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../lab9(c).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/lab_week12.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +99,7 @@
       <updated>1775291935084</updated>
       <workItem from="1775291936315" duration="969000" />
       <workItem from="1775292968626" duration="906000" />
-      <workItem from="1775293933389" duration="330000" />
+      <workItem from="1775293933389" duration="698000" />
     </task>
     <servers />
   </component>
